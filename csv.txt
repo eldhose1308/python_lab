@@ -1,0 +1,4 @@
+Name,Department,Birthday month
+John,Accounting,November
+Amy,IT,March
+james,IT,December
